@@ -1,1 +1,1 @@
-# ALLSUBSETS-Problem
+# Simple Turing Machine and ALLSUBSETS Problem
